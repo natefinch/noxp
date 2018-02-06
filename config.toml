@@ -1,7 +1,7 @@
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = ""
+disqusShortname = "noxp-io"
 paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
