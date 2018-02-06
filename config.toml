@@ -1,4 +1,4 @@
-baseurl         = "noxp.io"
+baseurl         = "https://noxp.io"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "noxp-io"
