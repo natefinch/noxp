@@ -20,7 +20,7 @@ critical its role has been in getting new players into the game.  The rules are
 simple enough that they don't hinder newbies, but they're strong enough to keep
 grognards like me happy.
 
-I hope you find somethign interesting on this site.  If you do, drop me a
+I hope you find something interesting on this site.  If you do, drop me a
 comment on twitter, respond to one of the posts, or hit me up on reddit.
 
 Now, roll for initiative! 

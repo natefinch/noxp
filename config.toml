@@ -9,7 +9,7 @@ canonifyurls    = true
 [params]
   title       = "NoXP.io"
   subtitle    = "Learn to Play Dungeons & Dragons"
-  copyright   = "© 2018"
+  copyright   = "© 2018 Nate Finch"
 
   cover       = "img/Scale-adult-preview.png"
   description = "Learn to play Dungeons & Dragons."
