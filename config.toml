@@ -1,0 +1,64 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "NoXP.io"
+  subtitle    = "Learn to Play Dungeons & Dragons"
+  copyright   = "© 2018"
+
+  cover       = "img/Scale-adult-preview.png"
+  description = "Learn to play Dungeons & Dragons."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "noxpio"
+#  fbName = "fakeghost"
+#  githubName = "eueung"
+#  linkedinName = "eueung"
+#  mediumName = ""
+
+#  logo = "hugo-logo.png"
+ # orgName = "EM"
+ # orgWebsite = "https://www.telematika.org"
+ # orgDescription = "Here is a description placeholder for your org"
+
+#  showSupport = true
+
+  author = "Nate Finch"
+  authorAvatar = "img/me.jpeg"
+  authorLocation = "Massachusetts, USA"
+#  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Playing D&D since 1988"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Dungeon Masters"
+  url = "/categories/DMs/"
+  weight = 100
+
+[[menu.main]]
+  name = "Players"
+  url = "/categories/Players/"
+  weight = 100
+
+
+
