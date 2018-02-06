@@ -69,7 +69,7 @@ out what happens.  That's the DM's job.
 D&D is really separated into three parts: combat, exploration, and everything
 else. 
 
-### Everything Else
+### **Everything Else**
 
 Everything else includes long distance travelling, social interactions
 with people in the game and other players, investigation, drinking at a tavern,
@@ -120,7 +120,7 @@ DMs don't worry about keeping the layout of a town hidden.  It's generally safe,
 and your characters can just wander wherever.  This is what differentiates it
 from exploration.
 
-### Exploration
+### **Exploration**
 
 Whether you're exploring an ancient castle, going into a cave complex, or
 delving into a dungeon, one thing links these play experiences together -
@@ -146,7 +146,7 @@ easy fight and a really hard fight.
 
 Speaking of fighting...
 
-### Combat
+### **Combat**
 
 Combat starts when the DM tells you to roll intiative. This is the universal
 sign for "something's going to try to kill you".  Once you start combat, D&D is
@@ -160,7 +160,7 @@ where your character goes and what she does.
 Going fully into combat is an article all in itself, because that's where fully
 2/3rds of the rules in the game are used.
 
-### Conclusion
+## Conclusion
 
 That's basically it, folks.  I'll probably cover the different aspects of play
 more in-depth in a later article.  Each one is easily able to take up as much
