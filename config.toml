@@ -9,6 +9,7 @@ canonifyurls    = true
 [params]
   title       = "NoXP.io"
   subtitle    = "Learn to Play Dungeons & Dragons"
+  subsubtitle = "No Experience Needed"
   copyright   = "© 2018 Nate Finch"
 
   cover       = "img/Scale-adult-preview.png"
@@ -51,14 +52,11 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
-  name = "Dungeon Masters"
-  url = "/categories/DMs/"
+  name = "Players"
+  url = "/players/"
   weight = 100
 
 [[menu.main]]
-  name = "Players"
-  url = "/categories/Players/"
-  weight = 100
-
-
-
+  name = "Dungeon Masters"
+  url = "/dms/"
+  weight = 99

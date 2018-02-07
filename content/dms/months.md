@@ -3,12 +3,10 @@ title = "Months"
 date = 2018-01-24T21:37:48-05:00
 draft = false
 image = "img/months.jpg"
+type = "post"
 tags = [
     "worldbuilding",
     "naming",
-]
-categories = [
-    "DMs",
 ]
 +++
 

@@ -3,12 +3,11 @@ title = "Names"
 date = 2018-01-22T21:06:35-05:00
 image = "img/fantsy-blank-map.jpg"
 authorAvatar = "img/me.jpeg" 
+type = "post"
+weight = 2
 tags = [
     "worldbuilding",
     "naming",
-]
-categories = [
-    "DMs",
 ]
 +++
 

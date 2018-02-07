@@ -3,9 +3,8 @@ title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
 draft = true
 image = "img/"
+type = "post"
 tags = [
  ]
-categories = [
-]
 +++
 

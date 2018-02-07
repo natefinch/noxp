@@ -3,12 +3,10 @@ title = "Your First Game"
 date = 2018-02-05T22:03:05-05:00
 draft = false
 image = "img/your-first-game.jpg"
+type = "post"
 tags = [
     "playing",
  ]
-categories = [
-    "players",
-]
 +++
 
 ## What Do I *Do*?
