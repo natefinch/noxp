@@ -51,6 +51,7 @@ canonifyurls    = true
   url = "/"
   weight = 200
 
+
 [[menu.main]]
   name = "Players"
   url = "/players/"
@@ -60,3 +61,15 @@ canonifyurls    = true
   name = "Dungeon Masters"
   url = "/dms/"
   weight = 99
+
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "/about/" 
+
+[[menu.main]]
+name = "Glossary"
+weight = 97
+url = "/glossary/" 
+

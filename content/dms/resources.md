@@ -62,4 +62,11 @@ discussion, just for posting resources for DMs.  More aimed at intermediate DMs,
 there's still tons of useful information for newbies.
 
 
-## Reddit's [DND](https://reddit.com/r/dndbehindthescreen)
+## Reddit's [D&D](https://reddit.com/r/dnd) and [D&D Next](https://reddit.com/r/dndnext)
+
+These are the two main D&D subreddits.  Lots of traffic, lots of posts (sort by
+new if you want to see more than the few most highly rated posts, which on D&D
+are usually artwork).  Posting here is a great place to get a lot of eyeballs on
+your stuff.  The D&D Next subreddit was originally created when 5th edition was
+being playtested, and now just serves as a slightly more focused D&D subreddit
+(for example, they don't allow posting artwork).

@@ -6,8 +6,6 @@ share = false
 image = "img/how-to-play.jpg"
 title = "About"
 type = "page"
-[menu.main]
-weight = 111
 
 +++
 
