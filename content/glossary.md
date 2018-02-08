@@ -335,6 +335,10 @@ A style of campaign with lots of loot and not much story.
 ### Mook
 An easy-to-kill opponent.
 
+### Multiclass
+A character that takes levels in more than one class is considered a multiclass
+character.  Also used as a verb, to multiclass into another class.
+
 ### Murderhobo
 The notion that the players generally have no permanent home and go around
 killing anything that stands in their way.  Often used as a derogatory term for

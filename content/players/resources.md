@@ -11,6 +11,16 @@ weight = 1
 type = "post"
 +++
 
+Playing D&D is easy and fun.  Below are a bunch of links to online resources
+where you can ask questions, read about D&D, and engage with the community.
+
+But the very first thing you should do, is get a copy of the rules.  You could
+go out and spend $30-$50 (USD) on the [Player's
+Handbook](https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606)
+**or** you could get a free copy of the official [Basic
+Rules](http://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf) and
+not pay a dime until you know you want to keep up with this thing.
+
 ## [ENWorld](http://www.enworld.org/forum/forum.php)
 
 An old school D&D forum that has been around for forever. 
