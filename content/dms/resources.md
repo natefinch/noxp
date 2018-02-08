@@ -11,6 +11,11 @@ artist = "Joré Escalera"
 artist_link = "https://www.artstation.com/jore"
 +++
 
+## The NoXP [Discussion Forum](https://reddit.com/r/NoXP)
+The above link is to a discussion forum on reddit dedicated to discussing
+beginner questions and questions about how to teach D&D, as well as any
+suggestions people have for content on this site.
+
 ## Matt Colville's [Running the Game](https://www.youtube.com/watch?v=e-YZvLUXcR8&list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_)
 
 This is an epic youtube series from a guy who's been DMing for 30 years.  I
