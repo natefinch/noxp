@@ -9,7 +9,7 @@ type = "page"
 
 +++
 
-NoXP is a site dedicate to teaching D&D to people who have never played before,
+NoXP is a site dedicated to teaching D&D to people who have never played before,
 or who haven't played in a very long time.  There are resources both for players
 and Dungeon Masters, as well as resources for people who know D&D and want to
 teach others.  Articles will go up as often as I have time to write them and

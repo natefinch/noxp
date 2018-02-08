@@ -208,6 +208,7 @@ body {
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
     margin-right: 10px;
+    padding-left: 12px;
     padding-bottom: 80px;
     letter-spacing: 0.4px;
     white-space: nowrap;
@@ -605,6 +606,10 @@ The first (most recent) post in the list is styled to be bigger than the others 
     .post-full-image {
         height: 400px;
     }
+}
+
+.menulink {
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .post-full-content {
