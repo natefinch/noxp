@@ -166,4 +166,5 @@ time as I can devote to talking about them.
 
 I hope this serves as a useful introduction to playing D&D.  If you think
 there's anything I've missed, please hit me up on twitter
-[@noxpio](https://twitter.com/noxpio) or leave a comment.
+[@noxpio](https://twitter.com/noxpio), leave a comment here, or post on reddit
+at [r/NoXP](https://reddit.com/r/NoXP).

@@ -31,3 +31,5 @@ comment on twitter, respond to one of the posts, or hit me up on reddit at
 [r/NoXP](https://reddit.com/r/NoXP)
 
 Now, roll for initiative! 
+
+<sup>main background image by [cwaniurkat](http://www.desktopimages.org/wallpaper/580294/wings-dragons-horns-fantasy-art-artwork-3d-1920x1200-wallpaper)</sup>
