@@ -22,32 +22,34 @@ Each class has things it's good at, and things it's not good at.  There are no
 
 ## One Liners
 
-Here's the one line description of each, you'll find more detailed information below:
+Here's a one line description of each class, which may help you narrow down your
+decision.  More complete descriptions are below.
 
 ### Core Classes
 
-These are the classes in the [Basic Rules](http://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf), and are the core around which the rest
-of the classes are built.  
+These are the classes in the [Basic Rules](http://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf), and
+are the core around which the rest of the classes are built.  These are the
+basic, classic, old school classes that have existed since D&D began.
 
 \* indicates classes that are particularly suited to new players.
 
 * Cleric - priest in armor with godly spells, can heal people
 * *Fighter - hits stuff with sword or bow, has some nifty maneuvers
-* *Rogue - sneaky thief, lightly armored
+* *Rogue - sneaky thief/swashbuckler, lightly armored
 * Wizard - spellcaster with wide variety of spells, especially damaging spells, and no armor
 
 ### Extended Classes
 
 These classes are only available in the Player's Handbook.
 
-* *Barbarian - fighter who wears less armor and can dish out more damage.
-* Bard - sings to cast spells, the "face" of the party
-* Druid - nature and animal-loving spellcaster
+* *Barbarian - lightly armored fighter that uses primal rage to deal a lot of damage
+* Bard - sings to cast spells, jack of all trades
+* Druid - nature-loving spellcaster that can shapechange into animals
 * *Monk - unarmored martial artist
-* Paladin - like a righteous, more fightery cleric with more armor and more melee focused
-* Ranger - like a more fightery druid
-* Sorcerer - like a wizard, but less variety of spells, but can manipulate them to cause different effects.
-* Warlock - spellcaster devoted to an otherworldly power
+* Paladin - a righteous, more combat-oriented cleric with fewer spells
+* Ranger - a lightly armored, skillful wilderness warrior
+* Sorcerer - like a wizard with less variety of spells, but can manipulate them to cause different effects.
+* Warlock - spellcaster devoted to an otherworldly power with unusual abilities
 
 Every class as different "subclasses" - these are minor variations to the
 classes to give you ways to make your Wizard mechanically different from someone
