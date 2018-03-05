@@ -53,8 +53,8 @@ These classes are only available in the Player's Handbook.
 
 Every class as different "subclasses" - these are minor variations to the
 classes to give you ways to make your Wizard mechanically different from someone
-else's Wizard, for example.  These are chosen at level 3, so we won't go into
-them in depth here.
+else's Wizard, for example.  There are more than I can easily stuff into this
+article, so they will be discussed in a separate article.
 
 ## In Depth
 
