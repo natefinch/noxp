@@ -33,7 +33,7 @@ basic, classic, old school classes that have existed since D&D began.
 
 \* indicates classes that are particularly suited to new players.
 
-* Cleric - priest in armor with godly spells, can heal people
+* Cleric - priest in armor with holy spells, can heal people
 * *Fighter - hits stuff with sword or bow, has some nifty maneuvers
 * *Rogue - sneaky thief/swashbuckler, lightly armored
 * Wizard - spellcaster with wide variety of spells, especially damaging spells, and no armor
