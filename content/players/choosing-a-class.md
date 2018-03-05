@@ -26,9 +26,10 @@ Here's the one line description of each, you'll find more detailed information b
 
 ### Core Classes
 
-These are the classes in the Basic Rules, and are the core around which the rest
-of the classes are built.  Classes denoted with a \* indicate classes that are
-particularly suited to new players.
+These are the classes in the [Basic Rules](http://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf), and are the core around which the rest
+of the classes are built.  
+
+\* indicates classes that are particularly suited to new players.
 
 * Cleric - priest in armor with godly spells, can heal people
 * *Fighter - hits stuff with sword or bow, has some nifty maneuvers
@@ -37,7 +38,7 @@ particularly suited to new players.
 
 ### Extended Classes
 
-These classes are only avaialble in the Player's Handbook.
+These classes are only available in the Player's Handbook.
 
 * *Barbarian - fighter who wears less armor and can dish out more damage.
 * Bard - sings to cast spells, the "face" of the party
