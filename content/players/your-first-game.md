@@ -32,13 +32,10 @@ The most popular youtube D&D campaign, by far (as of this writing) is Critical
 Role.  Critical Role is a bunch of voice actors that happen to love D&D. With
 their acting experience and great voice caricatures, it makes for a very
 entertaining game.  Critical Role has a youtube channel with basically infinite
-games you can watch, but I'm going to point you at early in their first
-campaign, after they got a lot of the bugs worked out of their recording and
-such.  [This
-episode](https://www.youtube.com/watch?v=kre27f30IVs&index=24&list=PL7atuZxmT954bCkC062rKwXTvJtcqFB8i&t=11m12s)
-is the beginning of a new story arc, so you won't be totally lost, but don't
-even worry about following exactly what the plot is like, just watch to see how
-people act around the table.  (Yes, that's a link to 11 minutes in, the first
+games you can watch, but I'm going to point you at the first episode of their second campaign (the one they're currently working on as of this writing) https://www.youtube.com/watch?v=byva0hOj8CU&t=16m26s
+
+Don't even worry about following exactly what the plot is like, just watch to see how
+people act around the table.  (Yes, that's a link to 16 minutes in, the first
 section of the video is all announcements and garbage that you don't need to
 watch.)  Also note, you don't have to watch the whole thing.  It's just a useful
 point of reference for people who have really never seen what it looks like
