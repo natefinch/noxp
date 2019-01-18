@@ -1,0 +1,18 @@
+.grid .left{
+    width:100px;
+    display:inline-block;
+    box-sizing:border-box;
+    text-align:right;
+    }
+  
+  .grid .right{
+    text-align:left;
+    padding-left:10px;
+    width:100px;
+    display:inline-block;
+    box-sizing:border-box;
+}
+
+.moderate {
+    width:40%;
+}

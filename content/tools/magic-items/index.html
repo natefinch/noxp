@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="/css/tools.css" /> 
+</head>
+<body>
+<h1>Randomly Choose Magic Items</h1>
+<div class="grid">
+<div class="left">Common:</div>     <div class="right"> <input type="number" id="commonQty" width=20px ></div><br>
+<div class="left">Uncommon:</div>   <div class="right"> <input type="number" id="uncommonQty" ></div><br>
+<div class="left">Rare:</div>       <div class="right"> <input type="number" id="rareQty" ></div><br>
+<div class="left">Very Rare:</div>  <div class="right"> <input type="number" id="veryRareQty" ></div><br>
+<div class="left">Legendary:</div>  <div class="right"> <input type="number" id="legendaryQty" ></div><br>
+<div class="left">Artifact:</div>   <div class="right"> <input type="number" id="artifactQty" ></div><br>
+</div>
+<br>
+<button onclick="generate()">Generate</button><br>
+<br>
+<div class="moderate"> Note: links generated go to D&D Beyond.  They may link to magic items from sources
+you don't have access to, in which case the links may appear not to work.  You
+must be logged into D&D Beyond to see anything other than magic items from the
+basic rules.</div>
+
+
+<span id="commons"></span>
+<span id="uncommons"></span>
+<span id="rares"></span>
+<span id="veryRares"></span>
+<span id="legendary"></span>
+<span id="artifacts"></span>
+
+<br><br>
+<br><br>
+
+<font size=1>
+The magic items linked to by this site are copyright <a href="https://dnd.wizards.com">Wizards of the Coast</a>.  The links are publicly available from <a href="https://dndbeyond.com/magic-items">D&D Beyond</a></font>
+
+<script type="text/javascript" src="/scripts/magic-items.js"></script>
+</body>
+</html>
