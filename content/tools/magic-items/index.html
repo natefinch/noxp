@@ -6,7 +6,7 @@
 <body>
 <h1>Randomly Choose Magic Items</h1>
 <div class="grid">
-<div class="left">Common:</div>     <div class="right"> <input type="number" id="commonQty" width=20px ></div><br>
+<div class="left">Common:</div>     <div class="right"> <input type="number" id="commonQty" ></div><br>
 <div class="left">Uncommon:</div>   <div class="right"> <input type="number" id="uncommonQty" ></div><br>
 <div class="left">Rare:</div>       <div class="right"> <input type="number" id="rareQty" ></div><br>
 <div class="left">Very Rare:</div>  <div class="right"> <input type="number" id="veryRareQty" ></div><br>
@@ -16,10 +16,7 @@
 <br>
 <button onclick="generate()">Generate</button><br>
 <br>
-<div class="moderate"> Note: links generated go to D&D Beyond.  They may link to magic items from sources
-you don't have access to, in which case the links may appear not to work.  You
-must be logged into D&D Beyond to see anything other than magic items from the
-basic rules.</div>
+<div class="pageWidth"> Note: links generated go to D&D Beyond and may require you to have purchased content.</div>
 
 
 <span id="commons"></span>
@@ -32,8 +29,8 @@ basic rules.</div>
 <br><br>
 <br><br>
 
-<font size=1>
-The magic items linked to by this site are copyright <a href="https://dnd.wizards.com">Wizards of the Coast</a>.  The links are publicly available from <a href="https://dndbeyond.com/magic-items">D&D Beyond</a></font>
+<span class="small">
+The magic items linked to by this site are copyright <a href="https://dnd.wizards.com">Wizards of the Coast</a>.  The links are publicly available from <a href="https://dndbeyond.com/magic-items">D&D Beyond</a>.</span>
 
 <script type="text/javascript" src="/scripts/magic-items.js"></script>
 </body>
