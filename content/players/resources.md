@@ -22,7 +22,7 @@ happens to be great at explaining things. I'm not usually a video watcher, but
 I've watched hours of Matt's videos, and I think you'll enjoy this one.
 
 ## [What Do You Actually *Do*?](https://noxp.io/players/your-first-game)
-This is my introduction to the actual process of playing the game when
+This is my introduction to the actual process of playing the game when you sit down at the table. Also useful for new DMs looking to understand how the game plays.
 
 
 ## Get The Rules
